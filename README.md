@@ -1,6 +1,6 @@
 # sqlfluff 1970
 
-Reproduces sqfluff issue [#1970](https://github.com/sqlfluff/sqlfluff/issues/1970)
+Reproduces sqlfluff issue [#1970](https://github.com/sqlfluff/sqlfluff/issues/1970)
 
 ## Usage
 
